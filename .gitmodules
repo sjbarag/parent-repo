@@ -1,0 +1,6 @@
+[submodule "children/a"]
+	path = children/a
+	url = git@github.com:sjbarag/submodule-a.git
+[submodule "children/b"]
+	path = children/b
+	url = git@github.com:sjbarag/submodule-b.git
